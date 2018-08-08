@@ -1,6 +1,6 @@
 # raspberry-fields-forever
 
-Currently having trouble making an image of the Pi, will upload it as soon as it is available.
+Pi image pending.
 
 In the meantime, please enjoy these two documents.
 
